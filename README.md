@@ -5,7 +5,7 @@ Lessons
 -------
 
 * [Quick Python Intro](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/00_Quick_Python_Intro.ipynb)
-* [Step 1](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/01_Step_1.ipynb) **Partially complete**
+* [Step 1](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/01_Step_1.ipynb) **COMPLETE**
 * [Step 2](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/02_Step_2.ipynb)
 * [CFL Condition](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/03_CFL_Condition.ipynb)
 * [Step 3](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/04_Step_3.ipynb)

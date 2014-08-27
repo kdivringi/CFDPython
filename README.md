@@ -6,8 +6,8 @@ Lessons
 
 * [Quick Python Intro](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/00_Quick_Python_Intro.ipynb)
 * [Step 1](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/01_Step_1.ipynb) **COMPLETE**
-* [Step 2](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/02_Step_2.ipynb) **COMPLETE**
-* [CFL Condition](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/03_CFL_Condition.ipynb)
+* [Step 2](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/02_Step_2.ipynb) **COMPLETE**
+* [CFL Condition](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/03_CFL_Condition.ipynb) **COMPLETE (unmodified)**
 * [Step 3](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/04_Step_3.ipynb)
 * [Step 4](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/05_Step_4.ipynb)
 * [Array Operations with NumPy](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/06_Array_Operations_with_NumPy.ipynb)

@@ -13,9 +13,9 @@ Lessons
 * [Array Operations with NumPy](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/06_Array_Operations_with_NumPy.ipynb) **COMPLETE (unmodified)**
 * [Step 5](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/07_Step_5.ipynb) **COMPLETE (modified)**
 * [Step 6](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/08_Step_6.ipynb) **COMPLETE (barely modified)**
-* [Step 7](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/09_Step_7.ipynb)
-* [Step 8](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/10_Step_8.ipynb)
-* [Defining Function in Python](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/11_Defining_Function_in_Python.ipynb)
+* [Step 7](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/09_Step_7.ipynb) **COMPLETE (unmodified)**
+* [Step 8](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/10_Step_8.ipynb) **COMPLETE (slightly modified)**
+* [Defining Function in Python](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/11_Defining_Function_in_Python.ipynb) **COMPLETE (unmodified)**
 * [Step 9](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/12_Step_9.ipynb)
 * [Step 10](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/13_Step_10.ipynb)
 * [Optimizing Loops with Numba](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/14_Optimizing_Loops_with_Numba.ipynb)

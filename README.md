@@ -16,7 +16,7 @@ Lessons
 * [Step 7](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/09_Step_7.ipynb) **COMPLETE (unmodified)**
 * [Step 8](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/10_Step_8.ipynb) **COMPLETE (slightly modified)**
 * [Defining Function in Python](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/11_Defining_Function_in_Python.ipynb) **COMPLETE (unmodified)**
-* [Step 9](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/12_Step_9.ipynb) **INCOMPLETE (watched lecture & took notes)**
+* [Step 9](http://nbviewer.ipython.org/urls/github.com/kdivringi/CFDPython/blob/master/lessons/12_Step_9.ipynb) **INCOMPLETE (watched lecture & took notes, partial progress in assignment)**
 * [Step 10](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/13_Step_10.ipynb)
 * [Optimizing Loops with Numba](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/14_Optimizing_Loops_with_Numba.ipynb)
 * [Step 11](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/15_Step_11.ipynb)
